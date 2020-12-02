@@ -11,4 +11,6 @@ Task 2 : The Chi-Squared Test
 Task 3 : Population Deviation VS Sample Deviation
     This task was to "Research these (aforementioned) Excel functions, writing a note in a Markdown cell about the difference between them. Then use numpy to perform a simulation demonstrating that the STDEV.S calculation is a better estimate for the standarddeviation of a population when performed on a sample"
 
-Task 4 : TBA
+Task 4 : SciKit Learn
+This task was to "Use scikit-learn to apply k-means clustering to
+Fisher’s famous Iris data set."
